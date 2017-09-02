@@ -1,7 +1,7 @@
 ##My projects
 
 
-[Hello world] (https://michelledeeney.github.io/hello-world)
+<https://michelledeeney.github.io/hello-world> "Hello world"
 
 
 
